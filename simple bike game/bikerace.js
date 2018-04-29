@@ -3,7 +3,7 @@
 
 $('#gogo').click(function(){
 
-  // function to check whether a car has reached the finish line or not
+  // function to check whether a bike has reached the finish line or not
   
   function CheckIfComplete(){
     if(isComplete == false){
